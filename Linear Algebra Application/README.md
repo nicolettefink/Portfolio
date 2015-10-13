@@ -10,4 +10,4 @@ The application is capable of running the following algorithms:
 
 README.txt contains instructions on how to input and format the data for each algorithm.
 
-** Plot.java, Pic.java, Pixel.java are not mine. The rest of the files are, however.**
+**Plot.java, Pic.java, Pixel.java are not mine. The rest of the files are, however.**
