@@ -22,4 +22,4 @@ ParticleFilter class
 * elapseTime
 
 
-**Note: The graphics are not mine. Only the methods specified above are my original code. **
+**Note: The graphics are not mine. Only the methods specified above are my original code.**
