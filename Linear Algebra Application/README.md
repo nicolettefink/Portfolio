@@ -8,5 +8,6 @@ The application is capable of running the following algorithms:
 * Power Method (graphing the results)
 * Animation (using linear transformations)
 
+Readme.txt contains instructions on how to input and format the data for each algorithm.
 
 ** Plot.java, Pic.java, Pixel.java are not mine. The rest of the files are, however.**
